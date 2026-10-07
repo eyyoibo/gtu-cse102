@@ -1,0 +1,3 @@
+--- Game Moves ---
+Move 1: (Row 0, Col 0)
+Total Moves: 1

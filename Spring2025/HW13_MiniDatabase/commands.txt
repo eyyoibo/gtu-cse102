@@ -1,0 +1,12 @@
+INSERT INTO CUSTOMER (“Ali123”,“ali123@gtu.edu.tr”,1,1,“20.09.2000”);
+INSERT INTO CUSTOMER (“Veli123”,“veli123@gtu.edu.tr”,1,1,“21.01.2001”);
+DELETE FROM CUSTOMER WHERE id=1;
+DELETE FROM CUSTOMER WHERE id=3;
+UPDATE CUSTOMER SET email=“veli@gtu.edu.tr”, job_type=2 WHERE id=2;
+UPDATE CUSTOMER SET email=“veli@gtu.edu.tr”, job_type=2 WHERE id=1;
+INSERT INTO CUSTOMER (,abcabc@gtu.edu.tr”,,,“03.05.2001”);
+INSERT INTO CUSTOMER (,abcabc123@gtu.edu.tr”,,,);
+TRUNCATE TABLE CUSTOMER;
+INSERT INTO CUSTOMER (“Ali123”,“ali123@gtu.edu.tr”,1,1,“20.09.2000”);
+INSERT INTO CUSTOMER (“Veli123”,“veli123@gtu.edu.tr”,1,1,“21.01.2001”);
+UPDATE CUSTOMER SET email=“veli@gtu.edu.tr”, job_type=2 WHERE id=1;

@@ -1,0 +1,10 @@
+Ali,ali@gtu.edu.tr,1,1,20.03.2000
+Ahmet,ahmet_muh@gtu.edu.tr,3,1,21.01.2001
+Mustafa,mstf@gtu.edu.tr,5,1,10.09.2002
+Ali Eren,ali_eren_123@gtu.edu.tr,2,1,01.01.1999
+Fatih,fatih_1@gtu.edu.tr,3,1,23.02.2004
+Beyza,beyza_tr@gtu.edu.tr,7,1,26.04.2003
+Halil,halil_abc@gtu.edu.tr,0,1,06.06.2002
+Hilal,hilal34@gtu.edu.tr,3,1,24.05.2002
+Irmak,irmak48@gtu.edu.tr,4,1,22.02.2001
+Alp,alp@gtu.edu.tr,5,1,20.09.2000
